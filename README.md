@@ -1,6 +1,5 @@
 # arduino_crafterss
 
-# arduino_crafters
 Projet: L'Odyssée des mondes connectés
 Le projet consiste à explorer des mondes connectés à l'aide du KIT TME-EDU-ARD-2
 Il s'agit de quatres mondes :la Planète des Sens ,la Grotte des Sons, l'Océan des émoticones, Au Sommet du Mont de Commande
